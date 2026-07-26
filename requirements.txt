@@ -1,0 +1,5 @@
+openai
+pandas
+python-dotenv
+matplotlib
+numpy
